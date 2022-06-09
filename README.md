@@ -7,6 +7,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<a href="https://dev.to/veert00x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="veert00x" height="30" width="40" /></a>
 <a href="https://twitter.com/veert00x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veert00x" height="30" width="40" /></a>
 </p>
 
