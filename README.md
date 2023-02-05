@@ -2,7 +2,7 @@
 <h3 align="center">An intermediate programmer from Poland</h3>
 
 <h2 lign="left">About me:</h2>
-<h3>VEERT00X and I am an intermediate programmer. My dream is to create video games, but for now, I create websites and applications in Python and C#</h3>
+<h3>I am an intermediate programmer. My dream is to create video games, but for now, I create websites and applications in Python and C#</h3>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
